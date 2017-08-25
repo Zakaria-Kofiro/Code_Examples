@@ -17,7 +17,9 @@ catch rate of 0% are actually not impossible to catch, they simply have a very s
 catch rate that's close to 0. It will most likely take several attempts to catch these Pokemon. The 
 game also allows the player to run away if they are not interested in catching a particular Pokemon 
 that shows up. At the end of the game, the program will display a list of the Pokemon that were caught during the 
-adventure. Good luck and have fun! 
+adventure. 
+
+Good luck and have fun! 
 
 
 
