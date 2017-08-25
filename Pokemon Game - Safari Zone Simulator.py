@@ -1,7 +1,6 @@
 
 #Safari Zone Simulator 
-
-
+#Author: Zakaria Kofiro 
 
 import tkinter as tk
 import random
