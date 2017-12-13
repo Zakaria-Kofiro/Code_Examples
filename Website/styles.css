@@ -1,0 +1,119 @@
+
+body {
+  color: #414141; /* Dark gray text color */
+  background-color: #EEEEEE;
+  width: 1100px;
+  margin: 0 auto;
+}
+
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  padding: 50px;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+}
+
+.clean{
+  padding: 50px;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+  background-color: #DDE0E3
+}
+
+.sleek {
+  padding: 20px;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+  background-color: #DDE0E3
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;
+}
+
+
+ul {
+  list-style-type: circle;
+  overflow:hidden;
+}
+
+ol {
+  list-style-type: lower-roman;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: #5995DA;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+}
+
+a:visited:hover {
+  color: orange;
+}
+
+a:visited:active {
+  color: red;
+}
+
+
+
+
+h1 {
+  background-color: #DDE0E3;    /* Light gray */
+}
+
+p {
+  padding: 20px 0 20px 10px;  /* Top  Right  Bottom  Left */
+}
+
+
+.list{
+  padding: 10px 0 10px 10px;
+}
+
+
+.ImageBorder
+{
+  border: 5px solid #5D6063;
+  border-radius: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+
+ul.with-columns{
+  list-style-position: inside;
+
+}
+
+.button {
+  color: #5D6063;
+  background-color: #DDE0E3;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+
+  width: 200px;
+  box-sizing: border-box;
+  margin: 20px auto; /* Vertical  Horizontal */
+}

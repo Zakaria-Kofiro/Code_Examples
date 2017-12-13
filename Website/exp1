@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Experiment 1</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1> The effect of temperature on Microbe #705 </h1>
+
+    <h2> Hypothesis </h2>
+    <p class = "sleek"> <strong> The growth of <em> Rhizoctonia solani </em> (Microbe #705) is affected by temperature. </strong> </p>
+
+    <h2> Methods </h2>
+
+    <p class = "sleek">
+    Three treatments of the fungus were set up in PDA agar. One petri dish was placed in a cabinet (room temperature, 23 C),
+    one petri dish was kept in the fridge (colder temperature, below 23 C), and one petri dish was left in an incubator
+    (hotter temperature, above 23 C). The petri dishes were left for 2 weeks. The cabinet petri dish was the control.
+    <br>
+    <br>
+    <strong> Control: </strong>The cabinet petri dish was the control because the original culture of #705 was grown in room tempature.
+    Thus, the control was grown in the same enivorment and compared with the other samples that
+    were subjected to different tempatures.
+    </p>
+
+    <h2> Results </h2>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+    .tg .tg-y9fb{font-size:18px;font-family:"Times New Roman", Times, serif !important;;vertical-align:top}
+    .tg .tg-dpgm{font-size:15px;font-family:"Times New Roman", Times, serif !important;;vertical-align:top}
+    </style>
+    <table class="tg" align = "center">
+      <tr>
+        <th class="tg-y9fb">Time (Weeks)</th>
+        <th class="tg-y9fb">Cabinet (mm)</th>
+        <th class="tg-y9fb">Incubator (mm)</th>
+        <th class="tg-y9fb">Fridge (mm)</th>
+      </tr>
+      <tr>
+        <td class="tg-dpgm">1</td>
+        <td class="tg-dpgm">42</td>
+        <td class="tg-dpgm">36</td>
+        <td class="tg-dpgm">0</td>
+      </tr>
+      <tr>
+        <td class="tg-dpgm">2</td>
+        <td class="tg-dpgm">Limit</td>
+        <td class="tg-dpgm">Limit</td>
+        <td class="tg-dpgm">0 </td>
+      </tr>
+    </table>
+
+  <p class = "sleek">
+
+    After one week of growth, the petri dishes that were kept in the warm and hotter environments grew
+    to above 35 mm each, while the sample kept in the fridge did not grow at all. After two weeks, all
+    petri dishes except the one kept in the fridge grew to the limit, taking up the entire dish. The
+    one kept in the fridge did not grow at all.
+  </p>
+
+
+  <h2> Conclusion </h2>
+
+  <p class = "sleek">
+    These results support the experiment’s hypothesis. After two weeks,
+    the fungi samples that were kept in the cabinet and incubator had more growth than the one kept in the refrigerator (it did not grow at all).
+    Thus, it is clear that temperature affects the growth of this fungi. For this particular fungus, cold temperatures
+    inhibit its growth, suggesting it grows in environments that are not cold, at least not as cold as the ones
+    kept in the lab refrigerator. <em> Rhizoctonia solani </em> grows in room temperatures and temperatures a little above room temperature,
+    but not in colder temperatures. In an agricultural context, this might mean that plants that are susceptible to
+    disease from this fungus can be grown in colder temperatures, as long as the plant can also survive in those temperatures.
+  </p>
+
+
+  <h2> Pictures </h2>
+
+
+  <p style="float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Oct 19/Exp1.1.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One Week of Growth</p>
+
+
+  <p style= "float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Oct 26/Exp1.2.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two Weeks of Growth (Hot)</p>
+
+  <p style= "font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Oct 26/Exp 1.3.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two Weeks of Growth (Cold)</p>
+
+</br>
+</br>
+</br>
+
+<hr>
+
+  <a href='home'> <div class = "button"> Back to Main Page </div> </a>
+
+
+
+  </body>
+</html>

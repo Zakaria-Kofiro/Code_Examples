@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Experiment 3</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1> How does Microbe #705 interact with hornworms?</h1>
+
+    <h2> Hypothesis </h2>
+    <p class = "sleek"> <strong> Hornworms do not interact with Microbe #705 </strong> </p>
+
+    <h2> Methods </h2>
+
+    <p class = "sleek">
+    The fungi was placed in the same dish as a hornworm to document the interaction
+    between both. The dish had food for the hornworm as well. The <em> Rhizoctonia solani </em> (Microbe #705)
+    was put in the dish without its agar. After one week, results were taken, and changes were made.
+    The dish was then sealed with perafilm, and the fungus sample was replaced with one that had agar with it.
+    After the second week, results were taken again.
+    <br>
+    <br>
+    <strong> Control: </strong> A petri dish with <em> Rhizoctonia solani </em> in PDA served as a control for this
+                                experiment to compare it the sample with the hornworm.
+
+    </p>
+
+    <h2> Results </h2>
+
+  <p class = "sleek">
+
+    After one week, the hornworm was found living, with little food left. The fungus did not grow. After the second
+    week, the hornworm was dead, and the fungus grew slightly (around 2 mm growth) with the little agar it had.
+  </p>
+
+
+  <h2> Conclusion </h2>
+
+  <p class = "sleek">
+    These results support the experiment’s hypothesis. The hornworm did not find the fungus as a food source
+    and did not interact with it much. Also, the fungus could not grow without the agar, but it grew a little
+    after it was provided with agar. This experiment shows that the fungus needs nutrition from the agar to
+    survive, and that it doesn't interact with hornworms. This means we might need to move from its
+    interactions with animals to its interactions with plants to find more information on it. This is
+    the basis of the fourth experiment.
+  </p>
+
+
+  <h2> Pictures </h2>
+
+
+  <p style="float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Oct 31/Exp 3.1.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After one week </p>
+
+
+  <p style= "float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Nov 16/Exp 3.1.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After two weeks</p>
+
+  <p style= "font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Nov 16/Exp 3.2.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Control (Two Weeks)</p>
+
+</br>
+</br>
+</br>
+
+<hr>
+
+  <a href='home'> <div class = "button"> Back to Main Page </div> </a>
+
+
+
+  </body>
+</html>

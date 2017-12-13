@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Pet Report: Home</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1>Pet Report: #705 </h1>
+
+
+    <h2>Description</h2>
+    <p class = "clean"> <strong> Brief Description: </strong> Pet microbe #705 is <em> Rhizoctonia solani </em>. It is a fungal pathogen
+         that exists worldwide and has a great diversity of host plants. It is considered a soil-bourne pathogen, and is the cause of
+        common plant diseases such as root rot and damping off. The pathogen usually attacks its host during its early
+        growing stage, such as when its still a seed or seedling. Since its a soil-bourne pathogen, this makes sense, because
+        seeds and seedlings are found in the soil.
+        <br>
+        <br>
+        <strong> Macroscopic: </strong> The fungus grows brown sclerotia, which are compact mass of hardened fungal
+        mycelium, as it develops. When grown in an petri dish, the fungus has a brown, fuzzy appearance. The color of the
+        fungus changes from light brown to a more darker brown as it grows, with it being darker closer to the center of growth.
+        Hyphae branches can be seen at the edges of growth, given the fungus has not taken up the entire dish already.
+        The fungus grows radially.
+
+        Here is a <a href="https://bugwoodcloud.org/images/768x512/1573303.jpg"> macroscopic </a>
+        view of <em> Rhizoctonia solani </em> attacking a host.
+
+        <br>
+        <br>
+        <strong> Microscopic: </strong> When viewed under a microscope, the hyphae of the fungus can be seen branching out like tree branches.
+                 The hyphae tend to branch off in right angles and have a slight constriction.
+
+                 Here is a <a href="https://bugwoodcloud.org/images/768x512/1570118.jpg"> microscopic </a>
+                 view of <em> Rhizoctonia solani. </em>
+    </p>
+
+
+
+
+  </br>
+
+    <h2>Pictures</h2>
+
+
+
+    <p style="float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+      <img style="display:inline" src='Pictures/Oct 26/Original.JPG' width='300' class="ImageBorder">
+    <em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rhizoctonia solani </em> </p>
+
+    <p style="float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+    <img style="display:inline" src='Pictures/Oct 19/Growth (1 Week).JPG' width='300' class="ImageBorder">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One Week of Growth</p>
+
+
+    <p style="float: left; font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+    <img style="display:inline" src='Pictures/Oct 26/Growth (2 Weeks).JPG' width='300' class="ImageBorder">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two Weeks of Growth</p>
+
+
+
+
+  </br>
+  </br>
+  </br>
+
+    <h2>Experiments</h2>
+
+    <div class = "clean">
+
+    <p class = "list"> Several experiments were conducted to find out more about pet microbe #705. Each experiment revealed
+        some information about the given microbe. They included experiments on how #705 reacted to tempature change,
+        along with its interactions with other microbes and living organisms. Data gathered from these
+        experiments allowed me to determine what type of microbe it was.
+      </br>
+      </br>
+      <strong>A total of 4 experiments were conducted:</strong>
+    </p>
+
+    <ul>
+      <li><strong><a href='exp1'>Experiment 1</a></strong>: The effect of temperature on Microbe #705.</li>
+      <li><strong><a href='exp2'>Experiment 2</a></strong>: How does Microbe #705 interact with Microbe #206?  </li>
+      <li><strong><a href='exp3'>Experiment 3</a></strong>: How does Microbe #705 interact with a hornworms?</li>
+      <li><strong><a href='exp4'>Experiment 4</a></strong>: How does Microbe #705 interact with pea seed germination? </li>
+    </ul>
+</br>
+
+  </div>
+
+</br>
+<hr>
+  <p style= "text-align: center;"> Zakaria Kofiro
+  <br>                             TA Eric Larson
+  <br>                             Plant Path 123
+  <br>                             December 2017
+  </p>
+  </body>
+</html>

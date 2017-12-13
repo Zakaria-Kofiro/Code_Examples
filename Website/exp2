@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Experiment 2</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1> How does Microbe #705 interact with Microbe #206?  </em></h1>
+
+    <h2> Hypothesis </h2>
+    <p class = "sleek"> <strong> <em> Rhizoctonia solani</em>’s (Microbe #705) growth is effected by Microbe #206. </strong> </p>
+
+    <h2> Methods </h2>
+
+    <p class = "sleek">
+     Six treatments were set up, two treatments containing #705 with #206 in a PDA agar, another two containing only #705
+     in a PDA agar, and two final treatments containing only #206 in PDA agar. The treatments containing only one microbe
+     severed as controls. All treatments were left for two weeks to grow on a cabinet.
+    <br>
+    <br>
+    <strong> Control: </strong> #705 in PDA agar and #206 in PDA agar treatments served as controls for this experiment, because
+                                the two were put together in a PDA petri dish. I had to make sure to compare how they usually
+                                grow in PDA on their own to how they grow in PDA agar together, in order to avoid any
+                                unwanted third variables.
+    </p>
+
+    <h2> Results </h2>
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+    .tg .tg-y9fb{font-size:18px;font-family:"Times New Roman", Times, serif !important;;vertical-align:top}
+    .tg .tg-dpgm{font-size:15px;font-family:"Times New Roman", Times, serif !important;;vertical-align:top}
+    .tg .tg-yw4l{vertical-align:top}
+    </style>
+    <table class="tg">
+      <tr>
+      <th class="tg-y9fb">Time (Weeks)</th>
+      <th class="tg-y9fb">Both in PDA (Trial 1,2) </th>
+      <th class="tg-y9fb">#705 in PDA (Trial 1,2) </th>
+      <th class="tg-y9fb">#206 in PDA (Trial 1,2) </th>
+      <th class="tg-y9fb">#206 in NA</th>
+     </tr>
+     <tr>
+      <td class="tg-dpgm">1</td>
+      <td class="tg-dpgm">Inhibited Growth of #705</td>
+      <td class="tg-dpgm">Normal Growth </td>
+      <td class="tg-dpgm">Inhibited Growth of #206</td>
+      <td class="tg-dpgm">Normal Growth</td>
+    </tr>
+    <tr>
+      <td class="tg-dpgm">2</td>
+      <td class="tg-dpgm">Inhibited Growth of #705 </td>
+      <td class="tg-dpgm">Normal Growth</td>
+      <td class="tg-dpgm">Inhibited Growth of #206</td>
+      <td class="tg-dpgm">Normal Growth</td>
+    </tr>
+    </table>
+
+  <p class = "sleek">
+
+    In the agars that contained both microbes, the growth of <em> Rhizoctonia solani</em>'s growth (#706) was inhibited by the #206.
+    There are visible lines where the growth of #206 takes over the growth of #705. Meanwhile, #705 grew a little
+    above 40 mm in PDA, and #206 did not grow much in PDA.
+  </p>
+
+
+  <h2> Conclusion </h2>
+
+  <p class = "sleek">
+    These results support the experiment’s hypothesis. Microbe #206 does affect the growth of <em> Rhizoctonia Solani</em>,
+    but because both microbes were grown in the PDA petri dishes, the Microbe #206 couldn’t grow as much.
+     <em> Rhizoctonia Solani</em>'s growth was slightly affected by #206. From the results, it can also be seen that #206 grows better
+    in NA instead of PDA. After doing some research, it seemed clear as to why microbe #206 affected #705. This is
+    because #206 was <em> Bacillus mycoides</em>, which is known to inhibt the growth of fungi. This provided
+    confirmation that this microbe was indeed a fungus.
+  </p>
+
+
+  <h2> Pictures </h2>
+
+
+  <p style="float: left;  font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Oct 12/Exp2.1.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One Week of Growth <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Both in PDA)</p>
+
+
+  <p style= "float: left;  font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Oct 26/Exp 2.5.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two Weeks of Growth <br> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; (Both in PDA)</p>
+
+  <p style= "font-size: 16pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img style="display:inline" src='Pictures/Nov 16/Exp 2.8.JPG' width='300' class="ImageBorder">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; #206 in PDA and NA</p>
+
+
+
+
+</br>
+</br>
+</br>
+
+<hr>
+
+  <a href='home'> <div class = "button"> Back to Main Page </div> </a>
+
+
+
+  </body>
+</html>
